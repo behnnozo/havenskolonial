@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variable file
+.env
+
+# Build artifacts
+/dist/
+/build/
